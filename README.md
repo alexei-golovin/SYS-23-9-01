@@ -63,6 +63,10 @@
 
 ### Ответ на задание 1
 
+![](https://github.com/alexei-golovin/SYS-23-9-01/blob/main/img/11.jpg)
+![](https://github.com/alexei-golovin/SYS-23-9-01/blob/main/img/12.jpg)
+![](https://github.com/alexei-golovin/SYS-23-9-01/blob/main/img/13.jpg)
+
 ---
 
 ### Задание 2 со звёздочкой*
